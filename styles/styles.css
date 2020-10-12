@@ -1,0 +1,70 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  color: #000;
+}
+
+h1, h2, h3, p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+.footer {
+  text-align: center;
+  text-decoration: none;
+  color:#000;
+  }
+
+i {
+  padding: 0 1%;
+}
+
+.background-image {
+  position: absolute;
+  left: -80px;
+}
+
+.container-fluid {
+  padding: 3% 12%;
+}
+
+.navbar {
+  padding: 0 0 8rem;
+  font-size:1rem;
+  font-weight: 700;
+  color: #000;
+}
+
+.nav-item{
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 15px;
+}
+
+.navbar-brand {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 2rem;
+  color:#000;
+}
+.title-box {
+  padding-top: 15%;
+}
+
+.title-name{
+  font-weight:700;
+  font-size: 4rem;
+  letter-spacing: 10;
+}
+.title-text {
+padding:10% 8% 10% 0;
+}
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  font-weight:700;
+}
+
+.title-image {
+  width:90%;
+}
