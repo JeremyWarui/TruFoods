@@ -24,7 +24,9 @@ i {
 
 .background-image {
   position: absolute;
-  left: -80px;
+  left: 0;
+  height:90%;
+  width:100%;
 }
 
 .container-fluid {
